@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:strawberry.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:watermelon.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:pineapple.jpeg">
+   </FileRef>
+   <FileRef
+      location = "group:grapes.jpg">
+   </FileRef>
+   <FileRef
+      location = "self:InterfaceAss.xcodeproj">
+   </FileRef>
+</Workspace>
